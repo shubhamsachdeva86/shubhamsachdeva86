@@ -21,6 +21,11 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 📺 <b>Latest YouTube Videos</b>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [BNB](https://www.youtube.com/watch?v=uZSfANpxtHk)
+- [Video Advertisement for Telecom Company](https://www.youtube.com/watch?v=LuVB3wJQ_4k)
+- [Client Testimonial 6 | Xonest Technologies &lpar;OPC&rpar; Pvt. Ltd.](https://www.youtube.com/watch?v=fh0eL9EtBbI)
+- [Client Testimonial 5 | Xonest Technologies &lpar;OPC&rpar; Pvt. Ltd.](https://www.youtube.com/watch?v=sodRxhZDDvQ)
+- [Client Testimonial 4 | Xonest Technologies &lpar;OPC&rpar; Pvt. Ltd.](https://www.youtube.com/watch?v=xIoIQrksLwc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [Click To Explore YouTube Videos & Client Testimonials](https://www.youtube.com/channel/UCTVjRFCHECx9y4HEBMSXc2A/videos)
