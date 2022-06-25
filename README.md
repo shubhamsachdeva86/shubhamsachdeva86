@@ -37,7 +37,7 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-📝 [...More Latest Blogs and Articles](https://www.xonestech.com/blogs/) 
+📝 [Click To Explore The Latest Blogs and Articles](https://www.xonestech.com/blogs/) 
 
 --------
 
