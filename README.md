@@ -18,7 +18,7 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 
 ---------
 
-📺 <b>Latest YouTube Videos & Client Testimoials</b>
+📺 <b>Latest YouTube Videos</b>
 
 <!-- YOUTUBE-VIDOES-LIST:START -->
 <!-- YOUTUBE-VIDOES-LIST:END -->
