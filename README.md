@@ -20,8 +20,8 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 
 📺 <b>Latest YouTube Videos</b>
 
-<! - - YOUTUBE-VIDEOS-LIST:START - - >
-<! - - YOUTUBE-VIDEOS-LIST:END - - >
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [Click To Explore YouTube Videos & Client Testimonials](https://www.youtube.com/channel/UCTVjRFCHECx9y4HEBMSXc2A/videos)
 
@@ -29,8 +29,8 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 
 📘 <b>Latest Articles</b>
 
-<! - - BLOG-ARTICLES-LIST:START - - >
-<! - - BLOG-ARTICLES-LIST:END - - >
+<!-- BLOG-ARTICLES-LIST:START -->
+<!-- BLOG-ARTICLES-LIST:END -->
 
 📝 [Click To Explore Latest Blogs and Articles](https://www.xonestech.com/blogs/) 
 
