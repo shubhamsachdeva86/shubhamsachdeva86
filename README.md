@@ -1,7 +1,7 @@
 # Hi there 👋🏻, I am Shubham Sachdeva
 
 --------------
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xonestechnology?label=People%20Following%20Me%20On%20Twitter&style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCTVjRFCHECx9y4HEBMSXc2A?label=People%20Subscribed%20To%20My%20Channel&style=social">
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xonestechnology?label=People%20Following%20Me%20On%20Twitter&style=social">](https://twitter.com/xonestechnology/) [<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCTVjRFCHECx9y4HEBMSXc2A?label=People%20Subscribed%20To%20My%20Channel&style=social">](https://www.youtube.com/channel/UCTVjRFCHECx9y4HEBMSXc2A) 
 
 I have over 10 years of work experience and am good to provide you services related to graphic designing, web designing, web development, mobile app development, and digital marketing.
 
