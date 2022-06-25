@@ -5,8 +5,8 @@ on:
   workflow_dispatch: #Run workflow maually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
   
 jobs:
-  update-readme-with-hashnode-blog:
-    name: update this repo's README with the latest hashnode blog posts
+  update-readme-with-blog:
+    name: update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     Steps:
       - uses: actions/checkout@v2
