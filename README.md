@@ -41,11 +41,11 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 
 --------
 
+📈 <b>My GitHub Stats</b>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsachdeva86&layout=compact&theme=radical)](https://github.com/shubhamsachdeva86/github-readme-stats)
 
-
-
-
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsachdeva86&show_icons=true&theme=radical)
 
 
 
