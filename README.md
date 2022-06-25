@@ -28,7 +28,7 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 - [Client Testimonial 4 | Xonest Technologies &lpar;OPC&rpar; Pvt. Ltd.](https://www.youtube.com/watch?v=xIoIQrksLwc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶️ [Click To Explore YouTube Videos & Client Testimonials](https://www.youtube.com/channel/UCTVjRFCHECx9y4HEBMSXc2A/videos)
+▶️ [...More YouTube Videos & Client Testimonials](https://www.youtube.com/channel/UCTVjRFCHECx9y4HEBMSXc2A/videos)
 
 --------
 
@@ -38,7 +38,7 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 
 <!-- BLOG-POST-LIST:END -->
 
-📝 [Click To Explore Latest Blogs and Articles](https://www.xonestech.com/blogs/) 
+📝 [...More Latest Blogs and Articles](https://www.xonestech.com/blogs/) 
 
 --------
 
