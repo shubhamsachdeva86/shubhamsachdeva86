@@ -21,11 +21,11 @@ Skills: Adobe Photoshop, InDesign, illustrator, XD, Sketch, Figma, Axure RP, HTM
 📺 <b>Latest YouTube Videos</b>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [231025. Client Testimonial Upworkl](https://www.youtube.com/watch?v=AOcBLhNOGrs)
 - [Latest Testimonials From Upwork Clients](https://www.youtube.com/watch?v=qhAUIorr_aY)
 - [Embark on a Journey with Xonest Technologies: Your Trusted Partner](https://www.youtube.com/watch?v=YjTR4f9lK8c)
 - [BNB](https://www.youtube.com/watch?v=uZSfANpxtHk)
 - [Video Advertisement for Telecom Company](https://www.youtube.com/watch?v=LuVB3wJQ_4k)
-- [Client Testimonial 6 | Xonest Technologies &lpar;OPC&rpar; Pvt. Ltd.](https://www.youtube.com/watch?v=fh0eL9EtBbI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [...More YouTube Videos & Client Testimonials](https://www.youtube.com/channel/UCTVjRFCHECx9y4HEBMSXc2A/videos)
